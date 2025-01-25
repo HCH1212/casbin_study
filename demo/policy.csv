@@ -1,0 +1,6 @@
+p, zhangsan, /index, GET
+p, zhangsan, /home, GET
+p, zhangsan, /users, GET
+p, zhangsan, /users, POST
+p, wangwu, /index, GET
+p, wangwu, /home, GET
